@@ -17,7 +17,7 @@ import 'font-awesome/css/font-awesome.min.css';
          };
 
          useEffect(()=> {
-            d3.csv("/data/clean_data.csv")
+            d3.csv(`${process.env.PUBLIC_URL}/data/clean_data.csv`)
                .then((da) =>{
                   setData(da);
                })
@@ -52,7 +52,7 @@ import 'font-awesome/css/font-awesome.min.css';
          };
  
          useEffect(() => {
-            d3.csv("/data/clean_data.csv")
+            d3.csv(`${process.env.PUBLIC_URL}/data/clean_data.csv`)
                .then((da) => {
                   if(da[selected]){
                      console.log(da[selected]);

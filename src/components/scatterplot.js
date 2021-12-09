@@ -57,7 +57,7 @@ const Scatterplot = (dataSet) => {
      }
 
     useEffect(()=> {
-        d3.csv("/data/clean_data.csv")
+        d3.csv(`${process.env.PUBLIC_URL}/data/clean_data.csv`)
             .then((da) =>{
                 var list1 = dataSet.dataSet.map((game)=>{
                     return game.row;

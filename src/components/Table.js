@@ -13,7 +13,7 @@ const Table = (data, num) => {
 
    useEffect(()=> {
       console.log(data.data.length);
-        d3.csv("/data/clean_data.csv")
+        d3.csv(`${process.env.PUBLIC_URL}/data/clean_data.csv`)
             .then((da) =>{
                 var list = data.data.map((game)=>{
                     return game;
