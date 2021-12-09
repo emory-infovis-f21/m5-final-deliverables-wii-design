@@ -9,6 +9,7 @@
    - Navigate to the project folder for this repository
    - Type npm i in terminal to load packages
    - Type npm run start in terminal to run webpage on local host
+   
 
 # Milestone 5: Final Deliverables
 
@@ -18,6 +19,8 @@ Your final deliverable for this project will include three components.
 Push your group's code to this repository, including a README with (1) a link to the hosted system, and (2) instructions to run the system locally. To host the system, Github pages should be sufficient if all you need is a static site (i.e., no database or server-side code). 
 
 ## Video Figure: 
+- https://drive.google.com/file/d/1oZEBbBX5p0gyuaq8arv8JcDW8wP8oKbk/view?usp=sharing
+    
 Videos should be 2-4 minutes long. Production quality is secondary -- instead, the goal is to demonstrate how your visualization works. This video should show (and narrate) how to interact with your visualization. Consider doing so in the form of a short usage scenario. Consider using <a href="https://www.microsoft.com/en-us/p/movie-maker-10-free/9mvfq4lmz6c9?activetab=pivot:overviewtab">Microsoft Movie Maker</a> or <a href="https://www.apple.com/imovie/">Apple iMovie</a> to edit your videos, or just capture a narrated screen recording using software such as <a href="https://support.apple.com/kb/DL837?locale=en_US">QuickTime</a> or similar. 
 
 In class, each group's video will be shared. A portion of your grade for this milestone will be based on peer feedback. Watch your classmates' videos carefully and provide helpful critique. 
