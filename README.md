@@ -1,3 +1,15 @@
+# How to Run:
+   - Please use Firefox browser for both GitHub pages and local 
+
+## GitHub Pages:
+   - Use this link https://emory-infovis-f21.github.io/m5-final-deliverables-wii-design/ in Firefox browser
+   
+## Local:
+   - Make sure that npm is intalled on your machine
+   - Navigate to the project folder for this repository
+   - Type npm i in terminal to load packages
+   - Type npm run start in terminal to run webpage on local host
+
 # Milestone 5: Final Deliverables
 
 Your final deliverable for this project will include three components.
