@@ -1,0 +1,75 @@
+.navbar {
+    width: 100%;
+    background-color: #062434;
+    justify-content: space-between;
+    display: flex;
+    height: 70px;
+}
+
+.header {
+    position: absolute;
+    padding-left: 20px;
+    top: 5px;
+    left: 30px;
+    float: left;
+}
+
+.menu {
+    position: absolute;
+    list-style: none;
+    right: 100px;
+    top: 8px;
+    height: 30px;
+    display: flex;
+}
+
+.navbar a {
+    padding: 1rem 1rem;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: white;
+    color: #0B4462;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

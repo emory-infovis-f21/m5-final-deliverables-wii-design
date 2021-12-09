@@ -1,0 +1,11 @@
+g.cell text.label {
+    font-size: 10px;
+}
+
+svg{
+    fill: white;
+}
+
+select:hover{
+    background-color: lightsteelblue;
+}
